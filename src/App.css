@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+
+
+body{
+  background-color: #fbae2c;
+}
+
+.control-panel {
+  margin-bottom: 20px;
+}
+
+.generate-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.generate-button:hover {
+  background-color: #0056b3;
+}
+
+.password-container {
+  margin-top: 20px;
+}
+
+.password-input {
+  width: 300px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.copy-button {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.copy-button:hover {
+  background-color: #218838;
+}
